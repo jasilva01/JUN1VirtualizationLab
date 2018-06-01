@@ -1,0 +1,11 @@
+Client + Hypervisor
+CLIENT
+vsphere
+vcenter
+citrix
+kms
+openstack
+HYPERVISOR
+VMWARE
+TYPE 1 - HW
+TYPE 2 - HW+SO
